@@ -32,6 +32,10 @@ This repository contains implementations of foundational chaos theory models ext
 
 ## 🚀 Quick Start
 
+### The DOSBox Rendering
+[Watch the Chaos Software Demo Video](./videos/mss85426_060_003.mp4)
+
+*Chaos Software v.1.1 by Mike Page and James Holsapple from the Edward N. Lorenz Papers (31MB)*
 ### Prerequisites
 
 ```r
