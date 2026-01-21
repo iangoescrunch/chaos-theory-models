@@ -271,6 +271,8 @@ chaos-theory-models/
 │
 ├── README.md                              # 👈 You are here
 ├── PROJECT.md                             # Project tracking & timeline
+├── videos/
+│   └── mss85426_060_003.mp4
 │
 ├── 01_lorenz_attractor.R                  # Lorenz system implementation
 ├── 02_logistic_map_bifurcation.R          # Logistic map & bifurcations
