@@ -33,9 +33,11 @@ This repository contains implementations of foundational chaos theory models ext
 ## 🚀 Quick Start
 
 ### The DOSBox Rendering
-[Watch the Chaos Software Demo Video](./videos/mss85426_060_003.mp4)
-
-*Chaos Software v.1.1 by Mike Page and James Holsapple from the Edward N. Lorenz Papers (31MB)*
+![DOSBox](DOSBox.png)
+✨✨[WATCH the Chaos Software Demo Video](https://stream-media.loc.gov/blogs/signal/mss85426_060_003.mp4)✨✨
+--- 
+[LOC blog archive with original Lorenz papers](https://blogs.loc.gov/thesignal/2020/08/metaphors-for-understanding-born-digital-collection-access-part-iii/)
+*Source: Edward N. Lorenz Papers, Library of Congress*
 ### Prerequisites
 
 ```r
