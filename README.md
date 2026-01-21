@@ -109,8 +109,9 @@ x[n+1] = r · x[n] · (1 - x[n])
 | **[PROJECT.md](PROJECT.md)** | 📋 Complete project tracking, timeline, and future phases |
 | **[START_HERE_PROJECT_SUMMARY.md](START_HERE_PROJECT_SUMMARY.md)** | 🚀 Quick overview and success metrics |
 | **[CHAOS_MODELS_COMPLETE_GUIDE.md](CHAOS_MODELS_COMPLETE_GUIDE.md)** | 📚 Technical reference with equations, cognitive science applications, research questions |
-| **Chaos_Study_Guide_EXPANDED.pdf** | 📖 29-page book substitute with chapter summaries, glossary, key concepts |
-| **chaos_models_extraction.Rmd** | 💻 R Markdown for interactive HTML reports with 3D visualizations |
+| **[Chaos_Study_Guide_EXPANDED.pdf](Chaos_Study_Guide_EXPANDED.pdf)** | 📖 29-page book substitute with chapter summaries, glossary, key concepts |
+| **[chaos_models_extraction.Rmd](chaos_models_extraction.Rmd)** | 💻 R Markdown source for interactive reports |
+| **[chaos_models_extraction.html](https://htmlpreview.github.io/?https://github.com/iangoescrunch/chaos-theory-models/blob/main/chaos_models_extraction.html)** | 🌐 Interactive HTML report with 3D visualizations |
 
 ---
 
@@ -263,18 +264,14 @@ chaos-theory-models/
 ├── README.md                              # 👈 You are here
 ├── PROJECT.md                             # Project tracking & timeline
 │
-├── Documentation/
-│   ├── START_HERE_PROJECT_SUMMARY.md      # Quick start guide
-│   ├── CHAOS_MODELS_COMPLETE_GUIDE.md     # Technical reference
-│   └── Chaos_Study_Guide_EXPANDED.pdf     # Book substitute (29 pages)
+├── 01_lorenz_attractor.R                  # Lorenz system implementation
+├── 02_logistic_map_bifurcation.R          # Logistic map & bifurcations
+├── chaos_models_extraction.Rmd            # R Markdown source
+├── chaos_models_extraction.html           # Interactive HTML output
 │
-├── R_Scripts/
-│   ├── 01_lorenz_attractor.R              # Lorenz system
-│   ├── 02_logistic_map_bifurcation.R      # Logistic map & bifurcations
-│   └── chaos_models_extraction.Rmd        # Interactive R Markdown
-│
-└── Data/
-    └── gleick_chaos_extracted.txt         # Source material from book
+├── START_HERE_PROJECT_SUMMARY.md          # Quick start guide
+├── CHAOS_MODELS_COMPLETE_GUIDE.md         # Technical reference
+└── Chaos_Study_Guide_EXPANDED.pdf         # 29-page book substitute
 ```
 
 ---
@@ -339,7 +336,8 @@ SOFTWARE.
 - **Edward Lorenz** - For discovering chaos while studying weather patterns (1961)
 - **Robert May** - For showing chaos in the simplest population model (1976)
 - **Mitchell Feigenbaum** - For discovering universal constants in chaos (1975)
-- **Dr. Mather** - Research advisor and mentor
+- **Dr. Robert Mather** - Research advisor and mentor
+- **Dr. Mickey Vanhoy** - Pushing me to "The Edge of Chaos"
 - **University of Central Oklahoma** - Computational resources and support
 
 ---
