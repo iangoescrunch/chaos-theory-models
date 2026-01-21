@@ -118,15 +118,14 @@ x[n+1] = r · x[n] · (1 - x[n])
 
 ### The Lorenz Attractor
 The butterfly-shaped strange attractor in phase space, showing how deterministic equations produce chaotic behavior.
-### The Lorenz Attractor
 ![Lorenz Attractor](lorenz_xz_projection.png)
 
 *[XZ projection reveals the iconic two-winged structure]*
 
 ### Bifurcation Diagram  
 Period-doubling cascade from stable equilibrium through chaos as growth parameter increases.
-### The Feigenbaum Bifurcation
-![feigenbaum](Bifucation_2.png)
+### The Feigenbaum
+![feigenbaum](Bifurcation_2.png)
 
 *[Self-similar fractal structure visible at all scales]*
 
@@ -148,17 +147,17 @@ This project bridges chaos theory and psychology research:
 
 ### Implicit Theories as Bifurcation Parameters
 - Small belief changes (mindset shifts) can cause large behavioral changes (bifurcations)
-- Interventions most effective at critical bifurcation points
+- Interventions are most effective at critical bifurcation points
 
-### Neural Dynamics
-- Brain operates as chaotic dynamical system
-- Healthy cognition requires "edge of chaos" (not too ordered, not too random)
+### Cognitive Dynamics
+- The brain operates as a chaotic dynamical system
+- 'Flow State' cognition requires "edge of chaos" (not too ordered, not too random)
 - Behavioral variability reflects underlying deterministic chaos, not measurement noise
 
 ### Decision-Making Under Uncertainty
 - Butterfly Effect in choices: tiny mood/context shifts → dramatically different decisions
-- Provides naturalistic account of agency without hard determinism or quantum mysticism
-
+- Provides a naturalistic account of agency without hard determinism or quantum mysticism
+- Unconscious Thought Theory (UTT) - Distracted deliberation reveals latent goal-directed decision making
 ---
 
 ## 📖 Background: The Three Features of Chaos
@@ -175,8 +174,8 @@ For a system to be truly **chaotic**, it must exhibit ALL three properties:
    - Paradox: deterministic yet unpredictable!
 
 3. **🔄 Aperiodic (Never Repeats)**
-   - Trajectory never settles into repeating cycle
-   - Every moment unique, yet bounded within strange attractor
+   - Trajectory never settles into a repeating cycle
+   - Every moment is unique, yet bounded within a strange attractor
    - Link between aperiodicity and unpredictability (Lorenz's key insight)
 
 **The Revolution:** "Chaos eliminates the Laplacian fantasy of deterministic predictability" – simple rules can produce infinite complexity.
@@ -209,7 +208,7 @@ For a system to be truly **chaotic**, it must exhibit ALL three properties:
 - [x] Upload to GitHub
 
 ### 🚀 Phase 2: Presentation (CURRENT)
-- [ ] Run all R scripts and verify outputs
+- [x] Run all R scripts and verify outputs
 - [ ] Create class presentation (slides + visualizations)
 - [ ] Prepare for Q&A on chaos theory concepts
 - [ ] Present to class
