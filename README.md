@@ -81,7 +81,6 @@ dx/dt = 10(y - x)
 dy/dt = -xz + 28x - y  
 dz/dt = xy - (8/3)z
 ```
-
 **Demonstrates:**
 - Sensitive dependence on initial conditions (Butterfly Effect)
 - Strange attractor with fractal geometry
@@ -119,17 +118,21 @@ x[n+1] = r · x[n] · (1 - x[n])
 
 ### The Lorenz Attractor
 The butterfly-shaped strange attractor in phase space, showing how deterministic equations produce chaotic behavior.
+### The Lorenz Attractor
+![Lorenz Attractor](lorenz_xz_projection.png)
 
 *[XZ projection reveals the iconic two-winged structure]*
 
 ### Bifurcation Diagram  
 Period-doubling cascade from stable equilibrium through chaos as growth parameter increases.
+### The Feigenbaum Bifurcation
+![feigenbaum](Bifucation_2.png)
 
 *[Self-similar fractal structure visible at all scales]*
 
 ### Butterfly Effect Demo
 Two trajectories starting 0.001 units apart diverge exponentially, demonstrating sensitive dependence on initial conditions.
-
+![Butterfly Effect](butterfly_effect.png)
 *[Small differences → vastly different outcomes]*
 
 ---
@@ -336,8 +339,7 @@ SOFTWARE.
 - **Edward Lorenz** - For discovering chaos while studying weather patterns (1961)
 - **Robert May** - For showing chaos in the simplest population model (1976)
 - **Mitchell Feigenbaum** - For discovering universal constants in chaos (1975)
-- **Dr. Robert Mather** - Research advisor and mentor
-- **Dr. Mickey Vanhoy** - Pushing me to "The Edge of Chaos"
+- **Dr. Mather** - Research advisor and mentor
 - **University of Central Oklahoma** - Computational resources and support
 
 ---
